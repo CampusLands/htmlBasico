@@ -1,0 +1,7 @@
+{
+    "nombreCompleto": "Miguel Angel",
+    "apellidoCompleto": "Castro Escamilla",
+    "edad": 23,
+    "pasatiempos": ["Cocinar", "Programar", "Leer", "Gym"],
+    "Altura": 1.68
+}

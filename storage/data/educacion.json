@@ -1,0 +1,17 @@
+{
+    "primaria": "Colegion bautista serrano",
+    "secundaria": "Luis carlos",
+    "universidad": "Unab",
+    "mastria": "Especialista en javascript universal",
+    "cursos":[
+        {}
+    ],
+    "diplomados":[
+        {}
+    ],
+    "conocimientosVarios": [
+        {
+            "nombre": "Python"
+        }
+    ]
+}
